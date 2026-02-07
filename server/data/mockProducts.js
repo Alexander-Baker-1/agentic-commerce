@@ -10,7 +10,7 @@ const mockProducts = {
       price: 599,
       size: 'M',
       color: 'black',
-      image: 'https://via.placeholder.com/300x300?text=Arcteryx+Jacket',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         waterproof_rating: '20000mm',
         breathability: '20000g',
@@ -30,7 +30,7 @@ const mockProducts = {
       price: 449,
       size: 'M',
       color: 'navy',
-      image: 'https://via.placeholder.com/300x300?text=Patagonia+Jacket',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         waterproof_rating: '20000mm',
         breathability: '15000g',
@@ -50,7 +50,7 @@ const mockProducts = {
       price: 349,
       size: 'M',
       color: 'black',
-      image: 'https://via.placeholder.com/300x300?text=Arcteryx+Pants',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         waterproof_rating: '20000mm',
         breathability: '20000g',
@@ -69,7 +69,7 @@ const mockProducts = {
       price: 89,
       size: 'M',
       color: 'black',
-      image: 'https://via.placeholder.com/300x300?text=Base+Layer',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         material: '100% merino wool',
         weight: '250gsm',
@@ -87,7 +87,7 @@ const mockProducts = {
       price: 129,
       size: 'M',
       color: 'black',
-      image: 'https://via.placeholder.com/300x300?text=Gloves',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         waterproof: true,
         insulation: 'PrimaLoft Gold',
@@ -105,7 +105,7 @@ const mockProducts = {
       price: 280,
       size: 'One Size',
       color: 'black',
-      image: 'https://via.placeholder.com/300x300?text=Goggles',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         lens_type: 'ChromaPop',
         interchangeable: true,
@@ -126,7 +126,7 @@ const mockProducts = {
       price: 299,
       size: 'M',
       color: 'blue',
-      image: 'https://via.placeholder.com/300x300?text=TNF+Jacket',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         waterproof_rating: '15000mm',
         breathability: '10000g',
@@ -146,7 +146,7 @@ const mockProducts = {
       price: 399,
       size: 'M',
       color: 'gray',
-      image: 'https://via.placeholder.com/300x300?text=Mammut+Jacket',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         waterproof_rating: '20000mm',
         breathability: '15000g',
@@ -166,7 +166,7 @@ const mockProducts = {
       price: 199,
       size: 'M',
       color: 'black',
-      image: 'https://via.placeholder.com/300x300?text=OR+Pants',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         waterproof_rating: '20000mm',
         breathability: '20000g',
@@ -185,7 +185,7 @@ const mockProducts = {
       price: 110,
       size: 'M',
       color: 'navy',
-      image: 'https://via.placeholder.com/300x300?text=Base+Layer',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         material: '100% merino wool',
         weight: '260gsm',
@@ -203,7 +203,7 @@ const mockProducts = {
       price: 170,
       size: 'M',
       color: 'brown',
-      image: 'https://via.placeholder.com/300x300?text=Hestra+Gloves',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         waterproof: true,
         insulation: 'G-Loft',
@@ -221,7 +221,7 @@ const mockProducts = {
       price: 150,
       size: 'M-L',
       color: 'white',
-      image: 'https://via.placeholder.com/300x300?text=Helmet',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         certification: 'CE EN 1077',
         ventilation: 'adjustable',
@@ -242,7 +242,7 @@ const mockProducts = {
       price: 180,
       size: 'M',
       color: 'black',
-      image: 'https://via.placeholder.com/300x300?text=Columbia+Jacket',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         waterproof_rating: '10000mm',
         breathability: '10000g',
@@ -262,7 +262,7 @@ const mockProducts = {
       price: 89,
       size: 'M',
       color: 'red',
-      image: 'https://via.placeholder.com/300x300?text=Budget+Jacket',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         waterproof_rating: '8000mm',
         breathability: '5000g',
@@ -282,7 +282,7 @@ const mockProducts = {
       price: 65,
       size: 'M',
       color: 'black',
-      image: 'https://via.placeholder.com/300x300?text=Budget+Pants',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         waterproof_rating: '5000mm',
         breathability: '5000g',
@@ -301,7 +301,7 @@ const mockProducts = {
       price: 35,
       size: 'M',
       color: 'black',
-      image: 'https://via.placeholder.com/300x300?text=Base+Layer',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         material: 'polyester blend',
         weight: '180gsm',
@@ -319,7 +319,7 @@ const mockProducts = {
       price: 25,
       size: 'M',
       color: 'black',
-      image: 'https://via.placeholder.com/300x300?text=Budget+Gloves',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         waterproof: true,
         insulation: '3M Thinsulate',
@@ -337,7 +337,7 @@ const mockProducts = {
       price: 45,
       size: 'One Size',
       color: 'gray',
-      image: 'https://via.placeholder.com/300x300?text=Budget+Goggles',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         lens_type: 'VLT coating',
         interchangeable: false,
@@ -355,7 +355,7 @@ const mockProducts = {
       price: 28,
       size: 'M',
       color: 'gray',
-      image: 'https://via.placeholder.com/300x300?text=Ski+Socks',
+      image: 'https://placehold.co/300x300/0EA5E9/FFF?text=Ski+Gear',
       specs: {
         material: '70% merino wool',
         cushioning: 'medium',
