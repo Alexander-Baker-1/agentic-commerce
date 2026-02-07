@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState } from 'react';
 
 function ChatInterface({ onIntentParsed }) {
@@ -105,6 +106,7 @@ function ChatInterface({ onIntentParsed }) {
         <div className="flex gap-2">
           <input
             type="text"
+            name="message"
             value={input}
             onChange={(e) => setInput(e.target.value)}
             onKeyPress={handleKeyPress}

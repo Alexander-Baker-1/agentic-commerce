@@ -1,3 +1,5 @@
+import React from 'react';
+
 function ProductCard({ product, onAddToCart, inCart }) {
     return (
       <div className="bg-white rounded-xl shadow-md border border-gray-100 p-5 hover:shadow-xl transition-all duration-300 hover:-translate-y-1">

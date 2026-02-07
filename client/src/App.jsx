@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState } from 'react';
 import ChatInterface from './components/ChatInterface';
 import Cart from './components/Cart';
