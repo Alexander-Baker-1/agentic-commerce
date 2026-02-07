@@ -86,7 +86,7 @@ function App() {
             <div className="text-4xl">🎿</div>
             <div>
               <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                Agentic Ski Shop
+                Alpine Agent
               </h1>
               <p className="text-gray-500 text-sm font-medium">
                 AI-powered shopping across multiple retailers

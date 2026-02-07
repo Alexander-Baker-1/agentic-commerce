@@ -1,10 +1,12 @@
-# Agentic Commerce - AI-Powered Multi-Retailer Shopping Platform
+# Alpine Agent - AI-Powered Multi-Retailer Shopping Platform
 
 An intelligent shopping agent that automates the entire process of finding and purchasing products across multiple retailers. Built for the Hack-Nation Global AI Hackathon VC Track challenge.
 
+**Launching with skiing gear as our wedge market, Alpine Agent's platform works for any multi-item shopping scenario: party planning, event organizing, travel packing, and beyond.**
+
 ## Overview
 
-Agentic Commerce transforms online shopping from a fragmented, time-consuming process into a seamless conversational experience. Instead of manually searching multiple websites, comparing prices, and completing separate checkouts, users simply describe what they need in natural language. The AI agent handles product discovery, intelligent ranking, cart optimization, and orchestrates a unified checkout experience across multiple retailers.
+Alpine Agent transforms online shopping from a fragmented, time-consuming process into a seamless conversational experience. Instead of manually searching multiple websites, comparing prices, and completing separate checkouts, users simply describe what they need in natural language. The AI agent handles product discovery, intelligent ranking, cart optimization, and orchestrates a unified checkout experience across multiple retailers.
 
 ## Problem Statement
 
